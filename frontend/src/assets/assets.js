@@ -1,5 +1,5 @@
 import appointment_img from './appointment_img.png'
-import header_img from './HomePhoto.avif'
+import header_img from './hero_medical.jpg'
 import group_profiles from './group_profiles.png'
 import profile_pic from './profile_pic.png'
 import contact_image from './contact_image.png'
